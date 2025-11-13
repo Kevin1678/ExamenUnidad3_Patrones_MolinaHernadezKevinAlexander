@@ -1,0 +1,8 @@
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\bin\Debug\ControlDeAcceso.exe.config
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\bin\Debug\ControlDeAcceso.exe
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\bin\Debug\ControlDeAcceso.pdb
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\obj\Debug\ControlDeAcceso.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\obj\Debug\ControlDeAcceso.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\obj\Debug\ControlDeAcceso.exe
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\obj\Debug\ControlDeAcceso.pdb
+C:\Users\kevin\source\repos\ControlDeAcceso\ControlDeAcceso\obj\Debug\ControlDeAcceso.exe.config
